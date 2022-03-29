@@ -3,7 +3,9 @@
 
 void print_error(){
 
-    printf("Usage: [IP ADDRESS] [PORT] [NUMBER OF PAYLOAD]\n\n");
+    printf("\n\tProduced by Nosferatuvjr, feel free to use it, but please credit me.\n");
+    printf("\t\t\t\tv0.1\n\n");
+    printf("Usage: revshell.c <host> <port> <number of payload\n\n");
     printf("Payload list:\n");
     printf("1. bash\n");
     printf("2. nc\n");
