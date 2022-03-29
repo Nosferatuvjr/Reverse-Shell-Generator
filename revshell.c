@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void print_error(){
+void print_helper(){
 
     printf("\n\tProduced by Nosferatuvjr, feel free to use it, but please credit me.\n");
     printf("\t\t\t\tv0.1\n\n");
@@ -23,7 +23,7 @@ int main(int argc, char * argv[]){
 
     if(argc != 4 || strlen(argv[1]) > 40 || strlen(argv[2]) > 5 || strlen(argv[3]) != 1) {
 
-      print_error();
+      print_helper();
 
       return -1;
       
