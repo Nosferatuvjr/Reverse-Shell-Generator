@@ -6,7 +6,10 @@ Reverse shell generator with simple one-line commands.
 ```
 ▶ ./revshell
 
-Usage: [IP ADDRESS] [PORT] [NUMBER OF PAYLOAD]
+    Produced by Nosferatuvjr, feel free to use it, but please credit me.
+                            v0.1
+
+Usage: revshell.c <host> <port> <number of payload
 
 Payload list:
 1. bash
